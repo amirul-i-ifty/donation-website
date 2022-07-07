@@ -1,0 +1,144 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.top-banner {
+    background-image: url(images/donation8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right, left;
+    height: 400px;
+    width: 100%;
+
+}
+
+.half-width {
+    width: 35%;
+    padding: 5%;
+
+}
+
+.image-width {
+    width: 50%;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: white;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+.link-button {
+    text-decoration: none;
+    text-align: center;
+    background-image: linear-gradient(orange, red);
+    border-radius: 5px;
+    padding: 10px 40px;
+    font-weight: 700;
+    color: white;
+}
+
+.color-black {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+
+.color-black-two {
+    text-align: left;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.color-grey {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+    text-align: center;
+
+}
+
+.color-white {
+    color: white;
+}
+
+.flexible-container {
+    display: flex;
+    margin: 150px;
+}
+
+.experience-item {
+    width: 35%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px grey;
+}
+
+#full-stack-developer {
+    border-left: 7px solid tomato;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.border-selected {
+    border: 7px solid tomato;
+    background-color: rgba(255, 228, 196, 0);
+}
+
+#bg-bisque {
+    background-color: paleturquoise;
+}
+
+#bg-cyan {
+    background-color: wheat;
+}
+
+#bg-hotpink {
+    background-color: sandybrown;
+}
+
+.footer-bg {
+    background-color: black;
+}
+
+.color-brown {
+    color: brown;
+}
+
+
+.insetreg {
+    left: 1400px;
+    font-family: 'Voltaire', sans-serif;
+    font-size: 18px;
+    position: relative;
+}
+
+.loginbtn {
+    left: 1740px;
+    font-family: 'Voltaire', sans-serif;
+    font-size: 18px;
+    border-width: 1px;
+    border-color: #333333;
+    background-color: #6B4226;
+    color: #ffffff;
+    padding: 2px 10px 2px 10px;
+    position: absolute;
+    height: 29px;
+    width: 120px;
+}
+
+.bgcolor {
+    background-color: yellow;
+    padding: 25px;
+
+}
